@@ -1,18 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akesh kumar</h1>
-<h3 align="center">Data Science and Ai Enthusiast</h3>
+<h1>Hie, I am</h1> 
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17311466%2Fad433a1163c4135d27e8df658f06381a%2FAkesh%20Kumar.gif?generation=1713714542682477&alt=media">
+A Data Scientist, using technology to derive meaningful insights from data and enhance decision-making capabilities. Skilled in Data science and AI, I am dedicated to applying my skills in real-world applications. My active participation in data science competitions and consistent contributions to Kaggle reflect my commitment to the tech community and passion for data-driven solutions.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akesh-0909&label=Profile%20views&color=0e75b6&style=flat" alt="akesh-0909" /> </p>
+**Find me around the web** 🌎: <a href="https://github.com/akesh-0909/">
 
-- 🔭 I’m currently on Learning Path **of Datascience**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akesh-kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/akeshkumarhp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="akeshkumarhp" height="30" width="40" /></a>
-<a href="https://medium.com/@akeshkumar65885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@akeshkumar65885" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akesh-0909&show_icons=true&locale=en&layout=compact" alt="akesh-0909" /></p>
+<img align="left" width="300" height="200" src="https://s3.amazonaws.com/magoosh-company-site/wp-content/uploads/hs/files/2016/06/24080851/StatisticsKermit.gif"></a>
+- Sharing my learning journey on my [Portfolio](akesh-0909.github.io) 📹 ✍🏾
+- Experimenting with datasets on [Kaggle](kaggle.com/akeshkumarhp) 🏓
+- Connecting and updating professional accomplishments on [LinkedIn](linkedin.com/in/akeshkumar). 💼
+  
