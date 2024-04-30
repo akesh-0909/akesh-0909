@@ -1,5 +1,5 @@
 <h1>Hie, I am</h1> 
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17311466%2Fad433a1163c4135d27e8df658f06381a%2FAkesh%20Kumar.gif?generation=1713714542682477&alt=media](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17311466%2F92775e87b7eacdd733a5254c3d6b5add%2FAkesh%20Kumar%20(1).gif?generation=1714448197610795&alt=media)">
+<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17311466%2F92775e87b7eacdd733a5254c3d6b5add%2FAkesh%20Kumar%20(1).gif?generation=1714448197610795&alt=media)">
 
 A Data Scientist, using technology to derive meaningful insights from data and enhance decision-making capabilities. Skilled in Data science and AI, I am dedicated to applying my skills in real-world applications. My active participation in data science competitions and consistent contributions to Kaggle reflect my commitment to the tech community and passion for data-driven solutions.
 
