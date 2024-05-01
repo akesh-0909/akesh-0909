@@ -1,7 +1,6 @@
-<h1>Hie, I am</h1> 
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F17311466%2F92775e87b7eacdd733a5254c3d6b5add%2FAkesh%20Kumar%20(1).gif?generation=1714448197610795&alt=media">
+# Hie Welcome, Nice to see you !
 
-A Data Scientist, using technology to derive meaningful insights from data and enhance decision-making capabilities. Skilled in Machine Learning and Data Analysis, I am dedicated to applying my skills in real-world applications.
+I am Akesh Kumar, a 20 year old Data Scientist from Himachal Pradesh, <stroing>Believes in Decoding the Data and Desigining the Future.</strong> Hold experties in Machine Learning and Data Analytics.
 
 **Find me around the web** 🌎: <br> <a href="https://github.com/akesh-0909/">
 
