@@ -1,6 +1,6 @@
 # Hie Welcome, Nice to see you !
 
-I am Akesh Kumar, a 20 year old Data Scientist from Himachal Pradesh, <strong>Believes in Decoding the Data and Designing the Future.</strong> Hold experties in Machine Learning 
+I am Akesh Kumar, a 20 year old Data Scientist from Himachal Pradesh, <strong>Believes in Decoding the Data and Designing the Future.</strong> Hold experties in Machine Learning, Statistics and Data analytics
 
 ![profile count](https://komarev.com/ghpvc/?username=akesh-0909&color=red)&nbsp;
 [![GitHub akesh](https://img.shields.io/github/followers/akesh-0909?label=follow&style=social)](https://github.com/akesh-0909)&nbsp;
