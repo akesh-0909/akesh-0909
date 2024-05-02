@@ -37,3 +37,13 @@ I am Akesh Kumar, a 20 year old Data Scientist from Himachal Pradesh, <strong>Be
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+<code><img height="50" src="https://img.icons8.com/?size=48&id=xSkewUSqtErH&format=png"></code>
+<code><img height="50" src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png"></code>
+<code><img height="50" src="https://scipy.org/images/logo.svg"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/180px-Scikit_learn_logo_small.svg.png"></code>
+<code><img height="50" src="https://dvc.org/img/logos/dvc.svg"></code>
+<code><img height="50" src="https://th.bing.com/th?id=OSK.a7177a97eea720a74a2020d18260a6a0&w=46&h=46&c=11&rs=1&qlt=80&o=6&dpr=1.2&pid=SANGAM"></code>
+<code><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
+<code><img height="50" src="https://matplotlib.org/_static/logo_light.svg"></code>
+
