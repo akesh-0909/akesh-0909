@@ -1,16 +1,16 @@
 # Hie Welcome, Nice to see you !
 
-I am Akesh Kumar, a 20 year old Data Scientist from Himachal Pradesh, <strong>Believes in Decoding the Data and Desigining the Future.</strong> Hold experties in Machine Learning 
+I am Akesh Kumar, a 20 year old Data Scientist from Himachal Pradesh, <strong>Believes in Decoding the Data and Designing the Future.</strong> Hold experties in Machine Learning 
 
 ![profile count](https://komarev.com/ghpvc/?username=akesh-0909&color=red)&nbsp;
 [![GitHub akesh](https://img.shields.io/github/followers/akesh-0909?label=follow&style=social)](https://github.com/akesh-0909)&nbsp;
 
 ## &nbsp;About Me : 📡
-- 💼  &nbsp;I’ve graduated with a **Bachelor of Computer Applications (BCA)** from **HPU Shimla**.\
-- 🔭  &nbsp;I’m actively engaged in projects related to **Data Science**, **Machine Learning**, and **Deep Learning**.\
-- 🌱  &nbsp;I am enhancing my expertise in **Data Science and ML project management methodologies, pipelines, and architecture**.\
-- 🤔  &nbsp;My career interests are focused on **Data Science**, **Machine Learning**, and **AI applications** in Healthcare and Manufaturing.\
-- 👀  &nbsp;For more information, view my [Personal Portfolio](https://akesh-0909.github.io).\
+- 💼  &nbsp;I’ve graduated with a **Bachelor of Computer Applications (BCA)** from **HPU Shimla**.
+- 🔭  &nbsp;I’m actively engaged in projects related to **Data Science**, **Machine Learning**, and **Deep Learning**.
+- 🌱  &nbsp;I am enhancing my expertise in **Data Science and ML project management methodologies, pipelines, and architecture**.
+- 🤔  &nbsp;My career interests are focused on **Data Science**, **Machine Learning**, and **AI applications** in Healthcare and Manufaturing.
+- 👀  &nbsp;For more information, view my [Personal Portfolio](https://akesh-0909.github.io).
 
 
 ## Find me around the web 🌎:
