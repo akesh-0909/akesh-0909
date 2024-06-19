@@ -47,4 +47,4 @@ I am Akesh Kumar, a 20 year old Data Scientist from the hills of Himachal Prades
 <code><img height="70" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg"></code>
 <code><img height="70" src="https://matplotlib.org/_static/logo_light.svg"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="70" src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)"></code>
+<code><img height="70" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></code>
