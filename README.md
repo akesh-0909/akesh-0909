@@ -1,10 +1,5 @@
 # Hie Welcome, Nice to see you !
 
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0ea005f-609e-42f6-b020-3d4ab32aa582" data-share-badge-host="https://www.credly.com"></div>
-
-
-
 I am Akesh Kumar, a 20 year old Data Scientist from the hills of Himachal Pradesh, <strong>Believes in Decoding the Data and Designing the Future.</strong> Hold experties in Machine Learning, Statistics and Data analytics
 
 ![profile count](https://komarev.com/ghpvc/?username=akesh-0909&color=red)&nbsp;
