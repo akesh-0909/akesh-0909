@@ -1,4 +1,5 @@
 # Hie Welcome, Nice to see you !
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e0ea005f-609e-42f6-b020-3d4ab32aa582" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 I am Akesh Kumar, a 20 year old Data Scientist from the hills of Himachal Pradesh, <strong>Believes in Decoding the Data and Designing the Future.</strong> Hold experties in Machine Learning, Statistics and Data analytics
 
@@ -10,6 +11,7 @@ I am Akesh Kumar, a 20 year old Data Scientist from the hills of Himachal Prades
 - 🔭  &nbsp;I’m actively engaged in projects related to **Data Science**, **Machine Learning**, and **Deep Learning**.
 - 🌱  &nbsp;I am enhancing my expertise in **Data Science and ML project management methodologies, pipelines, and architecture**.
 - 🤔  &nbsp;My career interests are focused on **Data Science**, **Machine Learning**, and **AI applications** in Healthcare and Manufaturing.
+
 - 👀  &nbsp;For more information, view my [Personal Portfolio](https://akesh-0909.github.io).
 
 
